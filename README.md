@@ -1,1 +1,3 @@
-# rtsp-server
+# avi-server
+
+audio/video/image server
